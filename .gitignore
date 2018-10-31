@@ -1,0 +1,10 @@
+# 画像は重いので対象外
+# ch3のfish,nofish,exfish,bestshot
+fish/
+nofish/
+bestshot/
+exfish/
+*.m4v
+*.mp4
+*.png
+*.jpg
